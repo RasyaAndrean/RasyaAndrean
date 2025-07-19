@@ -1,7 +1,7 @@
 # Halo, saya Rasya Andrean 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&width=435&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Cybersecurity+Researcher;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&width=435&lines=Full+Stack+Developer+And+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Cybersecurity+Researcher;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 ## 🚀 Tentang Saya
