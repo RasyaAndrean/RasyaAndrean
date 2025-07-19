@@ -1,17 +1,6 @@
 # Halo, saya Rasya Andrean 👋
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasyaandrean&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasyaandrean&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasyaandrean&theme=tokyonight" alt="GitHub Streak" />
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rasyaandrean&theme=tokyo-night" alt="Activity Graph" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&width=435&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Cybersecurity+Researcher;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
