@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Enhanced Real-time Analytics Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.socket.io/4.0.0/socket.io.min.js"></script>
+    <style>
+      body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin: 0;
+        padding: 20px;
+        background-color: #f5f5f5;
+      }
+
+      .dashboard {
+        max-width: 1200px;
+        margin: 0 auto;
+      }
+
+      .header {
+        text-align: center;
+        margin-bottom: 30px;
+      }
+
+      .metrics-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 20px;
+        margin-bottom: 30px;
+      }
+
+      .metric-card {
+        background: white;
+        border-radius: 8px;
+        padding: 20px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        text-align: center;
+      }
+
+      .metric-value {
+        font-size: 2em;
+        font-weight: bold;
+        color: #2196f3;
+      }
+
+      .metric-label {
+        font-size: 0.9em;
+        color: #666;
+        margin-top: 5px;
+      }
+
+      .charts-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+        gap: 20px;
+        margin-bottom: 30px;
+      }
+
+      .chart-container {
+        background: white;
+        border-radius: 8px;
+        padding: 20px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      }
+
+      .chart-title {
+        text-align: center;
+        margin-bottom: 15px;
+        font-weight: bold;
+        color: #333;
+      }
+
+      .controls {
+        text-align: center;
+        margin-bottom: 30px;
+      }
+
+      .btn {
+        background: #2196f3;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        margin: 0 10px;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 1em;
+      }
+
+      .btn:hover {
+        background: #1976d2;
+      }
+
+      .btn:disabled {
+        background: #bbdefb;
+        cursor: not-allowed;
+      }
+
+      .status-connected {
+        color: #4caf50;
+        font-weight: bold;
+      }
+
+      .status-disconnected {
+        color: #f44336;
+        font-weight: bold;
+      }
+
+      .notification {
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        padding: 15px 20px;
+        border-radius: 4px;
+        color: white;
+        font-weight: bold;
+        z-index: 1000;
+        animation: slideIn 0.3s, fadeOut 0.5s 4.5s;
+      }
+
+      .notification-success {
+        background: #4caf50;
+      }
+
+      .notification-warning {
+        background: #ff9800;
+      }
+
+      .notification-error {
+        background: #f44336;
+      }
+
+      @keyframes slideIn {
+        from {
+          transform: translateX(100%);
+        }
+        to {
+          transform: translateX(0);
+        }
+      }
+
+      @keyframes fadeOut {
+        from {
+          opacity: 1;
+        }
+        to {
+          opacity: 0;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="dashboard">
+      <div class="header">
+        <h1>Enhanced Real-time Analytics Dashboard</h1>
+        <p>
+          Advanced analytics with predictive capabilities and anomaly detection
+        </p>
+      </div>
+
+      <div class="metrics-grid">
+        <div class="metric-card">
+          <div class="metric-value" id="totalEvents">0</div>
+          <div class="metric-label">Total Events</div>
+        </div>
+
+        <div class="metric-card">
+          <div class="metric-value" id="eventsPerSecond">0</div>
+          <div class="metric-label">Events/Second</div>
+        </div>
+
+        <div class="metric-card">
+          <div class="metric-value" id="predictedUsers">0</div>
+          <div class="metric-label">Predicted Users</div>
+          <div class="metric-label">
+            Confidence: <span id="predictionConfidence">0%</span>
+          </div>
+        </div>
+
+        <div class="metric-card">
+          <div class="metric-value" id="connectionStatus">🔴 Disconnected</div>
+          <div class="metric-label">Connection Status</div>
+        </div>
+
+        <div class="metric-card">
+          <div class="metric-value" id="lastUpdate">--:--:--</div>
+          <div class="metric-label">Last Update</div>
+        </div>
+      </div>
+
+      <div class="charts-grid">
+        <div class="chart-container">
+          <div class="chart-title">User Activity (Real-time)</div>
+          <canvas id="userActivityChart"></canvas>
+        </div>
+
+        <div class="chart-container">
+          <div class="chart-title">System Metrics</div>
+          <canvas id="systemMetricsChart"></canvas>
+        </div>
+
+        <div class="chart-container">
+          <div class="chart-title">Business KPIs</div>
+          <canvas id="businessKpisChart"></canvas>
+        </div>
+      </div>
+
+      <div class="controls">
+        <button class="btn" id="pauseBtn">⏸️ Pause</button>
+        <button class="btn" id="resumeBtn">▶️ Resume</button>
+        <button class="btn" id="resetBtn">🔄 Reset</button>
+        <button class="btn" id="exportBtn">📊 Export Data</button>
+      </div>
+    </div>
+
+    <script type="module">
+      // Import the dashboard module
+      import RealTimeAnalyticsDashboard from './javascript_example.js';
+
+      // Initialize dashboard when DOM is loaded
+      document.addEventListener('DOMContentLoaded', () => {
+        const dashboard = new RealTimeAnalyticsDashboard({
+          wsUrl: 'ws://localhost:3001',
+          updateInterval: 500,
+          maxDataPoints: 50,
+        });
+
+        // Make dashboard globally available for debugging
+        window.dashboard = dashboard;
+      });
+
+      // Notification function (already defined in the JS module)
+      function showNotification(message, type = 'info') {
+        const notification = document.createElement('div');
+        notification.className = `notification notification-${type}`;
+        notification.textContent = message;
+
+        document.body.appendChild(notification);
+
+        setTimeout(() => {
+          notification.remove();
+        }, 5000);
+      }
+    </script>
+  </body>
+</html>

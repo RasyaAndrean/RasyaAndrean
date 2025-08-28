@@ -1,0 +1,36 @@
+{
+  "name": "rasyaandrean-code-examples",
+  "version": "1.0.0",
+  "description": "Code examples showcasing various programming languages and technologies",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node dashboard_server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "python",
+    "go",
+    "rust",
+    "java",
+    "kotlin",
+    "code-examples",
+    "real-time-analytics",
+    "ai-code-review"
+  ],
+  "author": "Rasya Andrean",
+  "license": "MIT",
+  "dependencies": {
+    "chart.js": "^4.0.0",
+    "socket.io": "^4.0.0",
+    "socket.io-client": "^4.0.0",
+    "ws": "^8.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
