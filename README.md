@@ -55,9 +55,8 @@
 🍕 **Food**: Pizza dan specialty coffee connoisseur, cooking hobbyist
 🌱 **Sustainability**: Environmental advocate, renewable energy supporter
 
-### 🌍 Travel & Culture
+### 🌍 Culture
 
-🌍 **Travel**: Visited 25+ countries, tech conference speaker, cultural explorer
 🗣️ **Languages**: Indonesian (native), English (fluent), Japanese (intermediate), Mandarin (basic)
 🤝 **Community**: Open source advocate, tech meetup organizer, volunteer mentor
 🎯 **Goals**: Visit Silicon Valley, speak at major tech conferences, contribute to space technology
