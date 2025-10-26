@@ -1,4 +1,4 @@
-# Halo, saya Rasya Andrean 👋
+# Halo, Im Rasya Andrean 👋
 
 <div align="center">
   <img src="./assets/github-header-banner.png" alt="Rasya Andrean - Full Stack Developer & AI Enthusiast" width="100%" />
@@ -16,14 +16,51 @@
 
 ---
 
-## 🚀 Tentang Saya
+### 🚨 About Me
 
-🎓 **Senior Full Stack Developer & AI Enthusiast** dengan 5+ tahun pengalaman dalam teknologi cutting-edge
-🧠 Saat ini saya sedang fokus pada **AI/ML Development**, **Microservices Architecture**, **Blockchain Technology**, dan **Cloud Native Solutions**
-💼 Terbuka untuk kolaborasi pada project open-source, freelance, startup ventures, dan enterprise solutions
-🌱 Selalu belajar teknologi terbaru dan berbagi pengetahuan dengan komunitas global
-🏆 Telah menyelesaikan 100+ project dan berkontribusi pada 50+ open source repositories
-⚡ Fun fact: Saya bisa coding sambil mendengarkan musik klasik untuk meningkatkan fokus dan produktivitas!
+🎓 Senior Full Stack Developer & AI Enthusiast with over 5 years of experience in building cutting-edge, scalable, and efficient digital solutions.
+
+🧠 My expertise spans Artificial Intelligence & Machine Learning Development, Microservices Architecture, Blockchain Technology, and Cloud-Native Solutions.
+
+💼 I’m open to collaborating on open-source projects, freelance work, startup ventures, and enterprise-level solutions that drive real-world impact.
+
+🌱 I’m passionate about continuous learning, staying at the forefront of emerging technologies, and sharing knowledge with the global developer community.
+
+🏆 I’ve successfully completed 100+ projects and contributed to 50+ open-source repositories, delivering high-quality results and innovation at every step.
+
+⚡ Fun fact: I often code while listening to classical music — it helps me stay focused, creative, and productive.
+
+---
+
+## 💡 Fun Facts & Personal Interests
+
+### 🎮 Gaming & Entertainment
+
+🎮 **Gaming**: Strategy games enthusiast (Civilization VI, Age of Empires), indie game supporter
+🎵 **Music**: Lo-fi hip hop, ambient, and classical music for coding sessions
+🎬 **Movies**: Sci-fi, thriller, dan documentary tentang teknologi
+📺 **Series**: Black Mirror, Silicon Valley, Mr. Robot, Westworld
+
+### 📚 Learning & Growth
+
+📖 **Reading**: Teknologi emerging, sci-fi novels, philosophy, dan business strategy
+🎓 **Continuous Learning**: 50+ online courses completed, 20+ certifications earned
+🧠 **Research**: Active researcher in AI ethics dan sustainable technology
+💡 **Innovation**: Patent holder untuk 3 teknologi AI dan blockchain
+
+### 🏃‍♂️ Health & Lifestyle
+
+🏃‍♂️ **Sports**: Marathon runner (3:30 PR), hiking enthusiast, rock climbing
+🧘‍♂️ **Wellness**: Daily meditation, yoga practitioner, mindfulness advocate
+🍕 **Food**: Pizza dan specialty coffee connoisseur, cooking hobbyist
+🌱 **Sustainability**: Environmental advocate, renewable energy supporter
+
+### 🌍 Travel & Culture
+
+🌍 **Travel**: Visited 25+ countries, tech conference speaker, cultural explorer
+🗣️ **Languages**: Indonesian (native), English (fluent), Japanese (intermediate), Mandarin (basic)
+🤝 **Community**: Open source advocate, tech meetup organizer, volunteer mentor
+🎯 **Goals**: Visit Silicon Valley, speak at major tech conferences, contribute to space technology
 
 ---
 
@@ -619,48 +656,6 @@ As a technology enthusiast, I continuously explore emerging technologies and ass
 
 ---
 
-## 📈 Detailed Activity Overview
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=rasyaandrean&theme=tokyonight&column=8&margin-w=15&margin-h=15&no-frame=true)
-
-</div>
-
----
-
-## 💻 Code Examples
-
-Explore comprehensive code examples showcasing various programming languages and technologies:
-
-### 🐍 [Python - AI Code Review Assistant](./code-examples/python_example.py)
-
-Advanced code analysis using machine learning and NLP with enhanced security patterns and complexity analysis
-
-### 🌐 [JavaScript - Real-time Analytics Dashboard](./code-examples/javascript_example.js)
-
-Real-time data visualization with WebSocket integration, predictive analytics, and anomaly detection
-
-### 🚀 [Go - Microservices API Gateway](./code-examples/go_example.go)
-
-High-performance API Gateway with load balancing
-
-### 🦀 [Rust - Blockchain Simulator](./code-examples/rust_example.rs)
-
-Blockchain simulation with smart contract execution
-
-### ☕ [Java - Enterprise Order System](./code-examples/java_example.java)
-
-Scalable order processing with Spring Boot
-
-### 📱 [Kotlin - Android Crypto App](./code-examples/kotlin_example.kt)
-
-Modern Android app with Jetpack Compose
-
-**[📁 Lihat Semua Code Examples →](./code-examples/)**
-
----
-
 ## 🎯 Skills & Expertise Levels
 
 <div align="center">
@@ -710,38 +705,6 @@ Modern Android app with Jetpack Compose
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281234567890)
 
 </div>
-
----
-
-## 💡 Fun Facts & Personal Interests
-
-### 🎮 Gaming & Entertainment
-
-🎮 **Gaming**: Strategy games enthusiast (Civilization VI, Age of Empires), indie game supporter
-🎵 **Music**: Lo-fi hip hop, ambient, and classical music for coding sessions
-🎬 **Movies**: Sci-fi, thriller, dan documentary tentang teknologi
-📺 **Series**: Black Mirror, Silicon Valley, Mr. Robot, Westworld
-
-### 📚 Learning & Growth
-
-📖 **Reading**: Teknologi emerging, sci-fi novels, philosophy, dan business strategy
-🎓 **Continuous Learning**: 50+ online courses completed, 20+ certifications earned
-🧠 **Research**: Active researcher in AI ethics dan sustainable technology
-💡 **Innovation**: Patent holder untuk 3 teknologi AI dan blockchain
-
-### 🏃‍♂️ Health & Lifestyle
-
-🏃‍♂️ **Sports**: Marathon runner (3:30 PR), hiking enthusiast, rock climbing
-🧘‍♂️ **Wellness**: Daily meditation, yoga practitioner, mindfulness advocate
-🍕 **Food**: Pizza dan specialty coffee connoisseur, cooking hobbyist
-🌱 **Sustainability**: Environmental advocate, renewable energy supporter
-
-### 🌍 Travel & Culture
-
-🌍 **Travel**: Visited 25+ countries, tech conference speaker, cultural explorer
-🗣️ **Languages**: Indonesian (native), English (fluent), Japanese (intermediate), Mandarin (basic)
-🤝 **Community**: Open source advocate, tech meetup organizer, volunteer mentor
-🎯 **Goals**: Visit Silicon Valley, speak at major tech conferences, contribute to space technology
 
 ---
 
@@ -801,69 +764,8 @@ _"To leverage technology as a force for positive change, building innovative sol
 <div align="center">
   <sub>Last updated: August 2024 | Made with ❤️ and lots of ☕</sub>
 </div>
-
----
-
-## 🌟 Open Source Contributions
-
-#### React.js
-
-- **Performance Optimizations**: Contributed to React 18 concurrent features
-- **Bug Fixes**: Fixed 15+ critical issues in React core
-- **Documentation**: Improved developer documentation and examples
-
-#### TensorFlow
-
-- **Custom Layers**: Developed specialized layers for NLP applications
-- **Optimization Algorithms**: Contributed new optimization techniques
-- **Mobile Support**: Enhanced TensorFlow Lite performance
-
-#### Kubernetes
-
-- **Monitoring Tools**: Built custom monitoring and alerting solutions
-- **Deployment Scripts**: Created automated deployment workflows
-- **Security Enhancements**: Implemented additional security features
-
-#### Django
-
-- **Security Middleware**: Developed security enhancement middleware
-- **Performance Improvements**: Optimized ORM query performance
-- **Testing Framework**: Enhanced testing capabilities
   
 ---
-
-## 🔮 Future Projects
-
-### Upcoming Initiatives
-
-- **Quantum Computing Framework** - Quantum algorithm development platform
-- **AI-Powered DevOps** - Intelligent infrastructure management
-- **Sustainable Tech Solutions** - Green computing initiatives
-- **Educational Platform** - Interactive coding education
-- **Space Technology** - Satellite communication systems
-
-### Research Areas
-
-- **Quantum Machine Learning** - Hybrid quantum-classical algorithms
-- **Edge AI Computing** - Distributed intelligence systems
-- **Sustainable Software** - Energy-efficient computing
-- **Human-AI Collaboration** - Augmented development workflows
-- **Decentralized Internet** - Web3 infrastructure development
-
----
-
-## 🤝 Collaboration Opportunities
-
-I'm always open to collaborating on innovative projects that push the boundaries of technology. Whether you're a startup, enterprise, or fellow developer, let's build something amazing together!
-
-### Areas of Interest
-
-- **AI & Machine Learning** - Intelligent systems and automation
-- **Blockchain & Web3** - Decentralized applications and protocols
-- **Cloud & Infrastructure** - Scalable and resilient systems
-- **Mobile & Web Development** - Cross-platform applications
-- **Open Source** - Community-driven development
-- **Education & Mentoring** - Knowledge sharing and growth
 
 ### Contact for Collaboration
 
