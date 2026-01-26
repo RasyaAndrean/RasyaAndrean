@@ -76,23 +76,28 @@ Open to collaboration on **open-source**, **freelance**, **startup**, and **ente
 
 ---
 
-## 🏆 GitHub Stats & Trophies
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rasyaandrean&theme=tokyonight&no-frame=true&margin-w=10&column=5&rank=-C,-B" alt="GitHub Trophies" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rasyaandrean&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=rasyaandrean&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rasyaandrean&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasyaandrean&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasyaandrean&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&exclude_repo=repo1,repo2" alt="Top Languages" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=rasyaandrean&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Contribution Stats" />
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rasyaandrean&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rasyaandrean&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rasyaandrean&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rasyaandrean&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
