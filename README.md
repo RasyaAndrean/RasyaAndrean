@@ -48,43 +48,27 @@ Open to collaboration on **open-source**, **freelance**, **startup**, and **ente
 
 ---
 
-## 📊 GitHub Analytics & Statistics
+## 🏆 GitHub Stats & Trophies
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasyaandrean&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasyaandrean&layout=compact&langs_count=12&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rasyaandrean&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasyaandrean&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rasyaandrean&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasyaandrean&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rasyaandrean&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rasyaandrean&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rasyaandrean&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rasyaandrean&theme=tokyonight" alt="Profile Summary" />
-</div>
-
----
-
-## 📊 Detailed GitHub Metrics
-
-<div align="center">
-
-### 📈 Contribution Patterns
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rasyaandrean&theme=tokyo-night&hide_border=true&area=true)
-
-### 🔥 Streak & Consistency
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rasyaandrean&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
-
-### 📊 Language Distribution
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasyaandrean&layout=donut&theme=tokyonight&hide_border=true&langs_count=8)
-
-### ⚡ Performance Metrics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasyaandrean&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Rasya%27s%20GitHub%20Performance)
-
 </div>
 
 ---
