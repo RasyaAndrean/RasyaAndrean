@@ -90,7 +90,11 @@ Open to collaboration on **open-source**, **freelance**, **startup**, and **ente
 
 ## 🏆 GitHub Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rasyaandrean-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=rasyaandrean-ma&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ## 📈 Contribution Activity
 
