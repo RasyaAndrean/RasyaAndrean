@@ -1,11 +1,7 @@
-<div align="center">
-  <img src="./assets/github-header-banner.png" alt="Rasya Andrean" width="100%" />
-</div>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=200&section=header&text=Rasya%20Andrean&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Lead%20Developer%20%7C%20Cybersecurity%20Researcher&descSize=16&descAlignY=55&animation=twinkling" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%9A%A1+Software+Engineer+%7C+Lead+Developer;%F0%9F%94%90+Lead+Penetration+Tester;%F0%9F%A4%96+AI+%26+Machine+Learning+Engineer;%F0%9F%94%97+Blockchain+%26+Cloud+Architecture;%F0%9F%92%A1+IT+Advisor+%7C+Tech+Innovation+Leader" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%9A%A1+Software+Engineer+%7C+Lead+Developer;%F0%9F%94%90+Lead+Penetration+Tester;%F0%9F%A4%96+AI+%26+Machine+Learning+Engineer;%F0%9F%94%97+Blockchain+%26+Cloud+Architecture;%F0%9F%92%A1+IT+Advisor+%7C+Tech+Innovation+Leader" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -22,18 +18,34 @@
   <img src="https://komarev.com/ghpvc/?username=rasyaandrean&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/rasyaandrean?style=flat-square&logo=github&label=Followers&color=236ad3" alt="Followers" />
   <img src="https://img.shields.io/github/stars/rasyaandrean?style=flat-square&logo=github&label=Stars&color=e3b341" alt="Stars" />
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-00D9FF?style=flat-square" alt="Experience" />
+</div>
+
+---
+
+<!-- SNAKE ANIMATION -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RasyaAndrean/RasyaAndrean/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RasyaAndrean/RasyaAndrean/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/RasyaAndrean/RasyaAndrean/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 ---
 
 <div align="center">
-  <h3>Software Engineer focused on building scalable, secure, and intelligent systems</h3>
+  <h3>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" />
+    Software Engineer focused on building scalable, secure, and intelligent systems
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" />
+  </h3>
   <p><i>Exploring cloud computing, automation, blockchain, and open-source innovation</i></p>
 </div>
 
 ---
 
-### About Me
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> About Me
 
 ```
 Name       :  Rasya Andrean
@@ -47,11 +59,13 @@ A developer and AI enthusiast with more than five years of experience. The caree
 
 Actively involved in both **front-end** and **back-end** development, with a strong interest in **AI/ML**, **microservices**, **cloud-native systems**, and **blockchain integration**. Frequently contributes to architectural decisions, system improvements, and aligning technical solutions with product and business needs.
 
-> *"Code is poetry written in logic, and every bug is just a plot twist waiting to be resolved."*
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code+is+poetry+written+in+logic,+and+every+bug+is+just+a+plot+twist+waiting+to+be+resolved.&author=Rasya+Andrean" alt="Quote" />
+</div>
 
 ---
 
-### Career Timeline
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> Career Timeline
 
 ```
 2025 - Now    Lead Penetration Tester    ████████████████████  Defining testing strategies & leading security programs
@@ -65,167 +79,162 @@ Actively involved in both **front-end** and **back-end** development, with a str
 
 ---
 
-### Core Expertise
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28" /> Core Expertise
 
 <table>
 <tr>
 <td align="center" width="25%">
-
-**Full-Stack Development**
-
-Web & API development, system design, microservices architecture, CI/CD pipelines
-
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-full-stack-developer-flaticons-lineal-color-flat-icons.png" width="48" /><br/>
+<b>Full-Stack Development</b>
+<br/><sub>Web & API development, system design, microservices architecture, CI/CD pipelines</sub>
 </td>
 <td align="center" width="25%">
-
-**AI & Machine Learning**
-
-Intelligent automation, predictive analytics, ML model development, AI-powered tools
-
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-artificial-intelligence-flaticons-lineal-color-flat-icons-3.png" width="48" /><br/>
+<b>AI & Machine Learning</b>
+<br/><sub>Intelligent automation, predictive analytics, ML model development, AI-powered tools</sub>
 </td>
 <td align="center" width="25%">
-
-**Cybersecurity**
-
-Penetration testing, OWASP Top 10, vulnerability analysis, security assessments
-
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-cyber-security-flaticons-lineal-color-flat-icons.png" width="48" /><br/>
+<b>Cybersecurity</b>
+<br/><sub>Penetration testing, OWASP Top 10, vulnerability analysis, security assessments</sub>
 </td>
 <td align="center" width="25%">
-
-**Cloud & DevOps**
-
-Cloud-native systems, containerization, infrastructure automation, distributed systems
-
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-cloud-computing-flaticons-lineal-color-flat-icons.png" width="48" /><br/>
+<b>Cloud & DevOps</b>
+<br/><sub>Cloud-native systems, containerization, infrastructure automation, distributed systems</sub>
 </td>
 </tr>
 </table>
 
 ---
 
-### Tech Stack
+### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30" /> Tech Stack
 
-<table>
-<tr>
-<td align="center" width="18%"><b>Languages</b></td>
-<td>
+<details>
+<summary><b>Languages</b> (click to expand)</summary>
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td align="center"><b>Frontend</b></td>
-<td>
+</details>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<details>
+<summary><b>Frontend</b> (click to expand)</summary>
+<br/>
 
-</td>
-</tr>
-<tr>
-<td align="center"><b>Backend</b></td>
-<td>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+</details>
 
-</td>
-</tr>
-<tr>
-<td align="center"><b>AI / ML</b></td>
-<td>
+<details>
+<summary><b>Backend</b> (click to expand)</summary>
+<br/>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td align="center"><b>Database & Cloud</b></td>
-<td>
+</details>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+<details>
+<summary><b>AI / Machine Learning</b> (click to expand)</summary>
+<br/>
 
-</td>
-</tr>
-<tr>
-<td align="center"><b>DevOps & Tools</b></td>
-<td>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+</details>
 
-</td>
-</tr>
-<tr>
-<td align="center"><b>Security</b></td>
-<td>
+<details>
+<summary><b>Database & Cloud</b> (click to expand)</summary>
+<br/>
 
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=hackthebox&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-</td>
-</tr>
-</table>
+</details>
 
----
+<details>
+<summary><b>DevOps & Tools</b> (click to expand)</summary>
+<br/>
 
-### Featured Projects
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**DAXX-AI**](https://github.com/RasyaAndrean/DAXX-AI) | Modern AI assistant application | React, Vite, Tailwind CSS |
-| [**Local-To-Port**](https://github.com/RasyaAndrean/Local-To-Port) | VS Code extension for instant port forwarding | TypeScript |
-| [**Universal-Encryption-System**](https://github.com/RasyaAndrean/Universal-Encryption-System) | Rust-based file encryption tool | Rust |
-| [**Binary-Data-Engine**](https://github.com/RasyaAndrean/Binary-Data-Engine) | Lightweight engine for binary data processing | C# |
-| [**Reverse-Engineering**](https://github.com/RasyaAndrean/Reverse-Engineering) | Reverse engineering research & learning journey | C, Assembly |
-| [**Assembly-Code-Examples**](https://github.com/RasyaAndrean/Assembly-Code-Examples) | Organized assembly language examples collection | Assembly |
-| [**CONFESS**](https://github.com/RasyaAndrean/CONFESS) | Anonymous messaging web application | HTML, CSS, JS |
-| [**MiniLink**](https://github.com/RasyaAndrean/MiniLink) | Minimalist & modern URL shortener | HTML, CSS, JS |
-| [**Laravel-Code-Examples**](https://github.com/RasyaAndrean/Laravel-Code-Examples) | Complete Laravel learning resource | PHP, Laravel |
-| [**The-Most-Complete-Calculator**](https://github.com/RasyaAndrean/The-Most-Complete-Calculator) | Comprehensive calculator with scientific & financial features | JavaScript |
+</details>
+
+<details>
+<summary><b>Security</b> (click to expand)</summary>
+<br/>
+
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+
+</details>
 
 ---
 
-### GitHub Stats
+### <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30" /> Featured Projects
+
+<div align="center">
+
+| # | Project | Description | Tech | Stars |
+|---|---------|-------------|------|-------|
+| 01 | [**DAXX-AI**](https://github.com/RasyaAndrean/DAXX-AI) | Modern AI assistant application | `React` `Vite` `Tailwind` | ![Stars](https://img.shields.io/github/stars/RasyaAndrean/DAXX-AI?style=flat-square&color=e3b341) |
+| 02 | [**Local-To-Port**](https://github.com/RasyaAndrean/Local-To-Port) | VS Code extension for instant port forwarding | `TypeScript` `VS Code API` | ![Stars](https://img.shields.io/github/stars/RasyaAndrean/Local-To-Port?style=flat-square&color=e3b341) |
+| 03 | [**Universal-Encryption-System**](https://github.com/RasyaAndrean/Universal-Encryption-System) | Rust-based file encryption tool | `Rust` `Cryptography` | ![Stars](https://img.shields.io/github/stars/RasyaAndrean/Universal-Encryption-System?style=flat-square&color=e3b341) |
+| 04 | [**Binary-Data-Engine**](https://github.com/RasyaAndrean/Binary-Data-Engine) | Lightweight engine for binary data processing | `C#` `.NET` | ![Stars](https://img.shields.io/github/stars/RasyaAndrean/Binary-Data-Engine?style=flat-square&color=e3b341) |
+| 05 | [**Reverse-Engineering**](https://github.com/RasyaAndrean/Reverse-Engineering) | Reverse engineering research & learning | `C` `Assembly` | ![Stars](https://img.shields.io/github/stars/RasyaAndrean/Reverse-Engineering?style=flat-square&color=e3b341) |
+| 06 | [**Assembly-Code-Examples**](https://github.com/RasyaAndrean/Assembly-Code-Examples) | Organized assembly language examples | `Assembly` `x86` | ![Stars](https://img.shields.io/github/stars/RasyaAndrean/Assembly-Code-Examples?style=flat-square&color=e3b341) |
+| 07 | [**CONFESS**](https://github.com/RasyaAndrean/CONFESS) | Anonymous messaging web app | `HTML` `CSS` `JS` | ![Stars](https://img.shields.io/github/stars/RasyaAndrean/CONFESS?style=flat-square&color=e3b341) |
+| 08 | [**MiniLink**](https://github.com/RasyaAndrean/MiniLink) | Minimalist URL shortener | `HTML` `CSS` `JS` | ![Stars](https://img.shields.io/github/stars/RasyaAndrean/MiniLink?style=flat-square&color=e3b341) |
+| 09 | [**Laravel-Code-Examples**](https://github.com/RasyaAndrean/Laravel-Code-Examples) | Complete Laravel learning resource | `PHP` `Laravel` | ![Stars](https://img.shields.io/github/stars/RasyaAndrean/Laravel-Code-Examples?style=flat-square&color=e3b341) |
+| 10 | [**The-Most-Complete-Calculator**](https://github.com/RasyaAndrean/The-Most-Complete-Calculator) | Scientific & financial calculator | `JavaScript` | ![Stars](https://img.shields.io/github/stars/RasyaAndrean/The-Most-Complete-Calculator?style=flat-square&color=e3b341) |
+
+</div>
+
+---
+
+### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="28" /> GitHub Stats
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RasyaAndrean&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&ring_color=00D9FF" alt="GitHub Stats" />
@@ -240,7 +249,7 @@ Cloud-native systems, containerization, infrastructure automation, distributed s
 
 ---
 
-### Trophies
+### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28" /> Trophies
 
 <div align="center">
 
@@ -258,13 +267,37 @@ Cloud-native systems, containerization, infrastructure automation, distributed s
 
 ---
 
+<!-- SPOTIFY / NOW PLAYING (optional placeholder) -->
+<!--
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=80&section=footer" width="100%" />
+  <h4>Now Playing</h4>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=00D9FF" />
 </div>
+-->
+
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28" /> Let's Connect
 
 <div align="center">
-  <b>Open to collaboration on open-source projects, freelance work, startup development, and large-scale solutions.</b>
-  <br/><br/>
-  <a href="https://www.rasyaandrean.my.id"><img src="https://img.shields.io/badge/Visit_My_Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/rasyaandrean"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+```
+  I'm always open to interesting conversations and collaboration.
+  Whether it's a project idea, a tech discussion, or just a friendly hello — feel free to reach out!
+```
+
+<a href="https://www.rasyaandrean.my.id"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/rasyaandrean"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/2Rasyaandrean8"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://t.me/rasyaandrean"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="mailto:rasyaandrean@outlook.co.id"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br/><br/>
+
+**Open to collaboration on open-source projects, freelance work, startup development, and large-scale solutions.**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%" />
 </div>
