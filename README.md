@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=200&section=header&text=Rasya%20Andrean&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Lead%20Developer%20%7C%20Cybersecurity%20Researcher&descSize=16&descAlignY=55&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=200&section=header&text=Rasya%20Andrean&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Lead%20Developer%20%7C%20Lead%20Penetration%20Tester&descSize=16&descAlignY=55&animation=twinkling" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%9A%A1+Software+Engineer+%7C+Lead+Developer;%F0%9F%94%90+Lead+Penetration+Tester;%F0%9F%A4%96+AI+%26+Machine+Learning+Engineer;%F0%9F%94%97+Blockchain+%26+Cloud+Architecture;%F0%9F%92%A1+IT+Advisor+%7C+Tech+Innovation+Leader" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%9A%A1+Software+Engineer+%7C+Lead+Developer;%F0%9F%94%90+Lead+Penetration+Tester;%F0%9F%A4%96+AI+%26+Machine+Learning+Engineer;%F0%9F%92%A1+IT+Advisor+%7C+Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -19,17 +19,6 @@
   <img src="https://img.shields.io/github/followers/rasyaandrean?style=flat-square&logo=github&label=Followers&color=236ad3" alt="Followers" />
   <img src="https://img.shields.io/github/stars/rasyaandrean?style=flat-square&logo=github&label=Stars&color=e3b341" alt="Stars" />
   <img src="https://img.shields.io/badge/Experience-5%2B%20Years-00D9FF?style=flat-square" alt="Experience" />
-</div>
-
----
-
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RasyaAndrean/RasyaAndrean/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RasyaAndrean/RasyaAndrean/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/RasyaAndrean/RasyaAndrean/output/github-snake-dark.svg" width="100%" />
-  </picture>
 </div>
 
 ---
