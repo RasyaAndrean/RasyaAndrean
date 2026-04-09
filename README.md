@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=200&section=header&text=Rasya%20Andrean&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Lead%20Developer%20%7C%20Lead%20Penetration%20Tester&descSize=16&descAlignY=55&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=200&section=header&text=Rasya%20Andrean&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Lead%20Developer%20%7C%20Founder%20of%20Urus%20Foundation&descSize=16&descAlignY=55&animation=twinkling" width="100%" />
 
 <div align="center">
   <a href="https://www.rasyaandrean.my.id"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
@@ -37,8 +37,11 @@ Name       :  Rasya Andrean
 Location   :  Indonesia
 Experience :  5+ Years in Software Engineering & Cybersecurity
 Current    :  Lead Developer  |  Lead Penetration Tester  |  IT Advisor
+Founder    :  Urus Foundation — Creator of the Urus Programming Language
 Focus      :  Distributed Systems, AI/ML, Cloud-Native, Blockchain
 ```
+
+Founder of [**Urus Foundation**](https://github.com/Urus-Foundation) — an open-source organization building the **Urus Programming Language**, a safe, simple, and fast language that transpiles to C11. Along with the language, the foundation develops tooling such as editor support, syntax highlighting, and a package manager.
 
 A developer and AI enthusiast with more than five years of experience. The career journey started as a junior developer, grew into a senior developer role, and eventually led to taking on responsibilities as a **Lead Developer**. Experienced in building systems from the ground up and bringing them into production, with a strong focus on clean design, scalability, and long-term maintainability.
 
@@ -110,6 +113,7 @@ Actively involved in both **front-end** and **back-end** development, with a str
 ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Urus](https://img.shields.io/badge/Urus-00D9FF?style=for-the-badge&logoColor=white)
 
 </details>
 
@@ -214,6 +218,15 @@ Actively involved in both **front-end** and **back-end** development, with a str
 | 08 | [**MiniLink**](https://github.com/RasyaAndrean/MiniLink) | Minimalist URL shortener | `HTML` `CSS` `JS` | ![Stars](https://img.shields.io/github/stars/RasyaAndrean/MiniLink?style=flat-square&color=e3b341) |
 | 09 | [**Laravel-Code-Examples**](https://github.com/RasyaAndrean/Laravel-Code-Examples) | Complete Laravel learning resource | `PHP` `Laravel` | ![Stars](https://img.shields.io/github/stars/RasyaAndrean/Laravel-Code-Examples?style=flat-square&color=e3b341) |
 | 10 | [**The-Most-Complete-Calculator**](https://github.com/RasyaAndrean/The-Most-Complete-Calculator) | Scientific & financial calculator | `JavaScript` | ![Stars](https://img.shields.io/github/stars/RasyaAndrean/The-Most-Complete-Calculator?style=flat-square&color=e3b341) |
+
+**Urus Foundation** — *Creator & Founder*
+
+| # | Project | Description | Tech | Stars |
+|---|---------|-------------|------|-------|
+| 01 | [**Urus**](https://github.com/Urus-Foundation/Urus) | Urus Programming Language — Safe, Simple, Fast. Transpiles to C11 | `C` `Urus` | ![Stars](https://img.shields.io/github/stars/Urus-Foundation/Urus?style=flat-square&color=e3b341) |
+| 02 | [**editor-support**](https://github.com/Urus-Foundation/editor-support) | Editor support for Urus — VS Code, Acode, and more | `TypeScript` | ![Stars](https://img.shields.io/github/stars/Urus-Foundation/editor-support?style=flat-square&color=e3b341) |
+| 03 | [**tree-sitter-urus**](https://github.com/Urus-Foundation/tree-sitter-urus) | Tree-sitter parser for Urus programming language | `JavaScript` | ![Stars](https://img.shields.io/github/stars/Urus-Foundation/tree-sitter-urus?style=flat-square&color=e3b341) |
+| 04 | [**Delima**](https://github.com/Urus-Foundation/Delima) | Dumb efficient library manager for Urus | `Urus` | ![Stars](https://img.shields.io/github/stars/Urus-Foundation/Delima?style=flat-square&color=e3b341) |
 
 </div>
 
