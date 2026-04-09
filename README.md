@@ -1,10 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=200&section=header&text=Rasya%20Andrean&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Lead%20Developer%20%7C%20Lead%20Penetration%20Tester&descSize=16&descAlignY=55&animation=twinkling" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%9A%A1+Software+Engineer+%7C+Lead+Developer;%F0%9F%94%90+Lead+Penetration+Tester;%F0%9F%A4%96+AI+%26+Machine+Learning+Engineer;%F0%9F%92%A1+IT+Advisor+%7C+Open+Source+Contributor" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <a href="https://www.rasyaandrean.my.id"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/rasyaandrean"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/2Rasyaandrean8"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
