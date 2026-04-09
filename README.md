@@ -228,15 +228,15 @@ Cloud-native systems, containerization, infrastructure automation, distributed s
 ### GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rasyaandrean&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&ring_color=00D9FF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=rasyaandrean&theme=tokyonight&hide_border=true&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RasyaAndrean&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&ring_color=00D9FF" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=RasyaAndrean&theme=tokyonight&hide_border=true&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasyaandrean&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=rasyaandrean&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Contribution Stats" />
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RasyaAndrean&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=RasyaAndrean&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Contribution Stats" />
 </div>
 
 ---
@@ -245,7 +245,7 @@ Cloud-native systems, containerization, infrastructure automation, distributed s
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rasyaandrean&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RasyaAndrean&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -254,7 +254,7 @@ Cloud-native systems, containerization, infrastructure automation, distributed s
 ### Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rasyaandrean&bg_color=1a1b27&color=70a5fd&line=00D9FF&point=bf91f3&area=true&area_color=00D9FF&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RasyaAndrean&bg_color=1a1b27&color=70a5fd&line=00D9FF&point=bf91f3&area=true&area_color=00D9FF&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
