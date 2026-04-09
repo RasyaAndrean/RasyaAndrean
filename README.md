@@ -235,8 +235,7 @@ Cloud-native systems, containerization, infrastructure automation, distributed s
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RasyaAndrean&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=RasyaAndrean&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Contribution Stats" />
+  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RasyaAndrean&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -245,7 +244,7 @@ Cloud-native systems, containerization, infrastructure automation, distributed s
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RasyaAndrean&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=RasyaAndrean&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
